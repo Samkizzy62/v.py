@@ -7,4 +7,5 @@ print(price + 5)
 sales = 5
 print(price - sales)
 current = 35
+print('breakdown')
 print(f'The original price was ${price}. With a sale of ${sales}, your current price is ${current}.')
